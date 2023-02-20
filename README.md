@@ -4,6 +4,7 @@ Name of project :Core Java Project
 
 Overview :
 Store the information about courses in Java (in-memory) using POJOs and Collections framework. Consider the following courses offered to the students.
+
 #. Develop a Console application in Java for course enrollment and tracking system with following functionalities.
 After starting the application, students should land on the home page where they can login using their name and password. Students should be allowed to login only if the entered password matches.
 
